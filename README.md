@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @frnssmmr
 - 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning HTML&CSS, PHP and Javascript
-- 💞️ I’m looking to collaborate on -
-- 📫 How to reach me -
+- 🌱 I’m currently learning HTML&CSS, PHP, Javascript and Python
+- 💞️ I’m looking to collaborate on M
+- 📫 How to reach me frnssmmr@gmail.com
 
 <!---
 frnssmmr/frnssmmr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
