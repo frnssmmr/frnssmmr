@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @frnssmmr
-- 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning HTML&CSS, PHP, Javascript and Python
+- 👋 Hi, I’m Frans Simamora
+- 👀 I’m interested in Frontend Web Developer
+- 🌱 I’m currently learning Frontend Web Developer (HTML&CSS, PHP, Javascript)
 - 💞️ I’m looking to collaborate on M
 - 📫 How to reach me frnssmmr@gmail.com
 
