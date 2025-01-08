@@ -84,12 +84,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ranzxm/ranzxm/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img height="150" src="https://64.media.tumblr.com/1232f3e239263b35a04cf7c5a1e020d7/tumblr_oi175g64t31tydz8to1_540.gifv"  />
 </div>
